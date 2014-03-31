@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breeze1411-IE8-Bug", "Breeze1411-IE8-Bug.csproj", "{9C528DD3-5A17-4CE9-B9B2-B615F5C1F6CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{26899C12-BA27-4ED3-821A-2C1389ECC582}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C528DD3-5A17-4CE9-B9B2-B615F5C1F6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C528DD3-5A17-4CE9-B9B2-B615F5C1F6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C528DD3-5A17-4CE9-B9B2-B615F5C1F6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C528DD3-5A17-4CE9-B9B2-B615F5C1F6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
